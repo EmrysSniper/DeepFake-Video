@@ -16,3 +16,8 @@ https://alanjc.medium.com/creating-your-own-deepfakes-with-a-single-image-74c869
 https://github.com/iperov/DeepFaceLab
 
 https://github.com/iperov/DeepFaceLive
+
+https://cs.binghamton.edu/~ncilsal2/DeepFakesDataset/ (FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals
+Umur Aybars Ciftci1, Ilke Demir2, Lijun Yin1)
+
+https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
