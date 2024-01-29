@@ -21,3 +21,5 @@ https://cs.binghamton.edu/~ncilsal2/DeepFakesDataset/ (FakeCatcher: Detection of
 Umur Aybars Ciftci1, Ilke Demir2, Lijun Yin1)
 
 https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
+
+https://ieeexplore.ieee.org/abstract/document/8639163
